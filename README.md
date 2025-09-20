@@ -1,10 +1,9 @@
 ### Olá quem fala é o Thiago Lopes🖐️
 
-Me chamo Thiago, tenho 19 anos e atualmente curso Desenvolvimento de Software. Gosto Muito de tecnologia e sempre busco aprender mais sobre desenvolvimento e automação.
+Me chamo Thiago, tenho 19 anos e atualmente curso Desenvolvimento de Software. Este é o segundo projeto que faço na aula git do professor júnior, esse projeto tem fins de estudo e aprendizado, para memorizar comando no git e github.
 
 ## Redes Sociais
 
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/marques_thiagoo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lopes-103ba0368)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor)](https://github.com/Thiago270906)
@@ -17,7 +16,7 @@ Me chamo Thiago, tenho 19 anos e atualmente curso Desenvolvimento de Software. G
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Ferramentas que Gosto de usar no dia a dia
+## 🛠️ Ferramentas que uso no dia a dia
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
